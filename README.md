@@ -49,11 +49,6 @@ Fully functional Notes and Todo app template.
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 
 
-### Contact - Let's become friend
-- [Github](https://github.com/cheetahmail007)
-- [Linkedin](https://www.linkedin.com/in/abhishek-pathak-b735018b/)
-- [MEDIUM](https://medium.com/@myofficework000/mvvm-architecture-using-repository-pattern-for-beginners-181a5df3fff8)
-
 <p>
 Don't forget to star ⭐ the repo it motivates me to share more open source
 </p>
